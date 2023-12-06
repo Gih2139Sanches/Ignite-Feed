@@ -8,12 +8,12 @@ export function Sidebar(){
         <aside className={styles.sidebar}>
             <img 
                 className={styles.cover} 
-                src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=50&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                src="https://images.unsplash.com/photo-1605379399843-5870eea9b74e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fGRldmVsb3BlcnxlbnwwfHwwfHx8MA%3D%3D"
              />
             
             <div className={styles.profile}>
                 <Avatar src="https://github.com/gih2139sanches.png"/>
-                <strong>Diogo Fernandes</strong>
+                <strong>Giovana Sanches</strong>
                 <span>Web Developer</span>
             </div>
 
